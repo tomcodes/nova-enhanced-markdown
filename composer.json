@@ -1,5 +1,5 @@
 {
-    "name": "ardenthq/nova-enhanced-markdown",
+    "name": "tomcodes/nova-enhanced-markdown",
     "description": "Custom Markdown Field for Nova with image upload support",
     "type": "library",
     "license": "MIT",
